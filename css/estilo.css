@@ -1,17 +1,17 @@
 
 body{
-    background-image: url("../imagenes/fondo.jpg");
+
+    background-color: darkorange;
 
 }
 
 
 #div1{
-    width:300px;
+    width:150px;
     height:100px;
-    border:3px transparent;
-    border-radius:22px;
-    background-color:#e3d193;
-    padding:9px;
+    border:1px solid red;
+    padding:1%;
+    overflow: hidden;
 }
 
 h1{
@@ -19,11 +19,14 @@ h1{
 }
 
 #imagen1{
-
+    float: left;
 
 }
 
 #imagen1{
-
+    float: right;
     
 }
+
+
+bo
