@@ -28,3 +28,28 @@ h1{
     
 }
 
+
+#div2{
+    width:100%;
+    height:50%;
+    padding:1%;
+    overflow: hidden;
+    text-align: center;
+}
+
+#div3{
+    width:100%;
+    height:50%;
+    padding:1%;
+    overflow: hidden;
+    text-align: center;
+}
+
+#div4{
+    width:100%;
+    height:50%;
+    padding:1%;
+    overflow: hidden;
+    text-align: center;
+}
+
