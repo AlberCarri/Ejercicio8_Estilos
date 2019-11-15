@@ -20,11 +20,15 @@ h1{
 
 #imagen1{
     float: left;
+    padding: 20px;
+
 
 }
 
-#imagen1{
+#imagen2{
     float: right;
+    padding: 20px;
+
     
 }
 
@@ -34,7 +38,13 @@ h1{
     height:50%;
     padding:1%;
     overflow: hidden;
-    text-align: center;
+
+}
+
+#imagen3{
+    float: left;
+    padding: 20px;
+
 }
 
 #div3{
@@ -42,7 +52,14 @@ h1{
     height:50%;
     padding:1%;
     overflow: hidden;
-    text-align: center;
+    padding: 20px;
+
+}
+
+#imagen4{
+    float: right;
+    padding: 20px;
+
 }
 
 #div4{
@@ -50,6 +67,11 @@ h1{
     height:50%;
     padding:1%;
     overflow: hidden;
-    text-align: center;
+}
+
+#imagen5{
+    float: left;
+    padding: 20px;
+
 }
 
